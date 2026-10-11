@@ -1,0 +1,257 @@
+
+/* Hero Section */
+.hero-section[b-424b9rmgpi] {
+    position: relative;
+    min-height: 620px;
+    height: 78vh;
+    max-height: 850px;
+    overflow: hidden;
+    background-color: #171717;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+.hero-image[b-424b9rmgpi] {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.hero-overlay[b-424b9rmgpi] {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient( 90deg, rgba(0, 0, 0, 0.78) 0%, rgba(0, 0, 0, 0.42) 48%, rgba(0, 0, 0, 0.05) 100% );
+}
+
+.hero-container[b-424b9rmgpi] {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding: 60px 8%;
+    box-sizing: border-box;
+}
+
+.hero-content[b-424b9rmgpi] {
+    max-width: 600px;
+}
+
+.hero-eyebrow[b-424b9rmgpi],
+.section-eyebrow[b-424b9rmgpi] {
+    margin-bottom: 16px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.hero-content h1[b-424b9rmgpi] {
+    margin-bottom: 24px;
+    font-size: clamp(42px, 6vw, 76px);
+    font-weight: 700;
+    line-height: 1.08;
+}
+
+.hero-description[b-424b9rmgpi] {
+    max-width: 480px;
+    margin-bottom: 30px;
+    font-size: 17px;
+    line-height: 1.8;
+}
+
+.hero-button[b-424b9rmgpi] {
+    padding: 13px 25px;
+    border-radius: 0;
+    font-weight: 600;
+    transition: background-color 0.2s ease;
+}
+
+    .hero-button:hover[b-424b9rmgpi] {
+        background-color: #d9e9f8;
+    }
+
+.hero-caption[b-424b9rmgpi] {
+    position: absolute;
+    right: 5%;
+    bottom: 22px;
+    z-index: 2;
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+
+/* Shared Section Headings */
+.section-heading[b-424b9rmgpi] {
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.section-title[b-424b9rmgpi] {
+    margin-bottom: 18px;
+    font-size: clamp(30px, 4vw, 44px);
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.section-description[b-424b9rmgpi] {
+    color: #666;
+    line-height: 1.8;
+}
+
+/* Featured Models */
+.models-section[b-424b9rmgpi] {
+    background-color: #fff;
+}
+
+.feature-card[b-424b9rmgpi] {
+    overflow: hidden;
+    border: 1px solid #e5e5e5;
+    border-radius: 0;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.04);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+    .feature-card:hover[b-424b9rmgpi] {
+        transform: translateY(-5px);
+        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.10);
+    }
+
+.model-image[b-424b9rmgpi] {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+}
+
+.feature-card .card-body[b-424b9rmgpi] {
+    padding: 28px;
+}
+
+.model-category[b-424b9rmgpi] {
+    margin-bottom: 10px;
+    color: #1266b1;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+}
+
+.feature-card .card-title[b-424b9rmgpi] {
+    margin-bottom: 14px;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.feature-card .card-text[b-424b9rmgpi] {
+    margin-bottom: 24px;
+    color: #666;
+    line-height: 1.8;
+}
+
+.model-button[b-424b9rmgpi],
+.electric-button[b-424b9rmgpi],
+.experience-button[b-424b9rmgpi] {
+    padding: 12px 20px;
+    border-radius: 0;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+/* Electric Mobility */
+.electric-section[b-424b9rmgpi] {
+    overflow: hidden;
+    background-color: #f3f4f5;
+}
+
+.electric-image[b-424b9rmgpi] {
+    display: block;
+    width: 100%;
+    min-height: 400px;
+    height: 100%;
+    object-fit: cover;
+}
+
+.electric-content[b-424b9rmgpi] {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 65px 12%;
+    box-sizing: border-box;
+}
+
+    .electric-content > p:not(.section-eyebrow)[b-424b9rmgpi] {
+        margin-bottom: 28px;
+        color: #555;
+        line-height: 1.9;
+    }
+
+/* Driving Experience */
+.experience-section[b-424b9rmgpi] {
+    background-color: #fff;
+}
+
+.experience-description[b-424b9rmgpi] {
+    max-width: 480px;
+    margin-bottom: 25px;
+    color: #666;
+    line-height: 1.9;
+}
+
+.experience-image[b-424b9rmgpi] {
+    width: 100%;
+    min-height: 280px;
+    max-height: 430px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+    .experience-image:hover[b-424b9rmgpi] {
+        transform: scale(1.02);
+    }
+
+/* Responsive Layout */
+@media (max-width: 767.98px) {
+    .hero-section[b-424b9rmgpi] {
+        min-height: 520px;
+        height: 72vh;
+    }
+
+    .hero-container[b-424b9rmgpi] {
+        padding: 40px 24px;
+    }
+
+    .hero-content h1[b-424b9rmgpi] {
+        font-size: clamp(38px, 9vw, 58px);
+    }
+
+    .hero-description[b-424b9rmgpi] {
+        font-size: 15px;
+    }
+
+    .hero-caption[b-424b9rmgpi] {
+        right: 20px;
+        left: 20px;
+        font-size: 10px;
+    }
+
+    .model-image[b-424b9rmgpi] {
+        height: 250px;
+    }
+
+    .feature-card .card-body[b-424b9rmgpi] {
+        padding: 22px;
+    }
+
+    .electric-image[b-424b9rmgpi] {
+        min-height: 280px;
+        max-height: 380px;
+    }
+
+    .electric-content[b-424b9rmgpi] {
+        padding: 45px 24px;
+    }
+
+    .experience-image[b-424b9rmgpi] {
+        min-height: 220px;
+    }
+}

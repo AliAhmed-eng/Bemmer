@@ -1,0 +1,10 @@
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png
+wwwroot\images\bmw-3-series.jpg
+wwwroot\images\bmw-electric.jpg
+wwwroot\images\bmw-experience.jpg
+wwwroot\images\bmw-hero.jpg
+wwwroot\images\bmw-logo.png
+wwwroot\images\bmw-x5.jpg

@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BMWwebsite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BMWwebsite.vor2j23aac.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-3-series.jpg",
+      "PackagePath": "staticwebassets\\images\\bmw-3-series.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-electric.jpg",
+      "PackagePath": "staticwebassets\\images\\bmw-electric.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-experience.jpg",
+      "PackagePath": "staticwebassets\\images\\bmw-experience.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-hero.jpg",
+      "PackagePath": "staticwebassets\\images\\bmw-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-logo.png",
+      "PackagePath": "staticwebassets\\images\\bmw-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-x5.jpg",
+      "PackagePath": "staticwebassets\\images\\bmw-x5.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BMWwebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BMWwebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BMWwebsite.props",
+      "PackagePath": "build\\BMWwebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BMWwebsite.props",
+      "PackagePath": "buildMultiTargeting\\BMWwebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BMWwebsite.props",
+      "PackagePath": "buildTransitive\\BMWwebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BMWwebsite.props" />
+</Project>

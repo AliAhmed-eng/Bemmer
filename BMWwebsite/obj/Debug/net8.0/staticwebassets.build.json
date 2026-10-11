@@ -1,0 +1,1258 @@
+{
+  "Version": 1,
+  "Hash": "33/jof08FVUJuUZ5qPpzp7twgXH16jEoXTHUC4xHGhA=",
+  "Source": "BMWwebsite",
+  "BasePath": "_content/BMWwebsite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BMWwebsite\\wwwroot",
+      "Source": "BMWwebsite",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\",
+      "BasePath": "_content/BMWwebsite",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BMWwebsite.styles.css",
+      "SourceId": "BMWwebsite",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BMWwebsite",
+      "RelativePath": "BMWwebsite#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "vor2j23aac",
+      "Integrity": "r+PT0KdFEptDE0LsTY7S3ezy3aPMf4LjLbgfyubQzEI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BMWwebsite.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BMWwebsite.bundle.scp.css",
+      "SourceId": "BMWwebsite",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BMWwebsite",
+      "RelativePath": "BMWwebsite#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "vor2j23aac",
+      "Integrity": "r+PT0KdFEptDE0LsTY7S3ezy3aPMf4LjLbgfyubQzEI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BMWwebsite.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\app.css",
+      "SourceId": "BMWwebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\",
+      "BasePath": "_content/BMWwebsite",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "BMWwebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\",
+      "BasePath": "_content/BMWwebsite",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "BMWwebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\",
+      "BasePath": "_content/BMWwebsite",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\favicon.png",
+      "SourceId": "BMWwebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\",
+      "BasePath": "_content/BMWwebsite",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-3-series.jpg",
+      "SourceId": "BMWwebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\",
+      "BasePath": "_content/BMWwebsite",
+      "RelativePath": "images/bmw-3-series#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a06auraj8a",
+      "Integrity": "6sZ8hUSogp12CGB8oCHLHtxZ4ll17BG/a7YlNFR5LjI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bmw-3-series.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-electric.jpg",
+      "SourceId": "BMWwebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\",
+      "BasePath": "_content/BMWwebsite",
+      "RelativePath": "images/bmw-electric#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m23nyc9cvu",
+      "Integrity": "ThHxRp17gqplNYYKw5KrsQ9V6dg+sIOAjQkYWKanvW4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bmw-electric.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-experience.jpg",
+      "SourceId": "BMWwebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\",
+      "BasePath": "_content/BMWwebsite",
+      "RelativePath": "images/bmw-experience#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pah8u1otbd",
+      "Integrity": "b7SYnbxnVK+S1J0w9d01n7an4C8+EdERx1G5r2SZsl8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bmw-experience.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-hero.jpg",
+      "SourceId": "BMWwebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\",
+      "BasePath": "_content/BMWwebsite",
+      "RelativePath": "images/bmw-hero#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lrqxx3khv8",
+      "Integrity": "P837fJLerI2lI8qyqk/CT81MlIfcYQehagOH4nwdV6U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bmw-hero.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-logo.png",
+      "SourceId": "BMWwebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\",
+      "BasePath": "_content/BMWwebsite",
+      "RelativePath": "images/bmw-logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "srp0f1fe95",
+      "Integrity": "eAVS8Na5/fxIwzHnlUmWSTd2WfBG+N/OVIQEK4NrXFo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bmw-logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-x5.jpg",
+      "SourceId": "BMWwebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\",
+      "BasePath": "_content/BMWwebsite",
+      "RelativePath": "images/bmw-x5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "33tgnqgxnt",
+      "Integrity": "walPv2zjlkea857i4ht8FwS5Jfu9XQ65K9824WTNfx0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bmw-x5.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:11:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:11:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "BMWwebsite.bundle.scp.css",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BMWwebsite.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r+PT0KdFEptDE0LsTY7S3ezy3aPMf4LjLbgfyubQzEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 11:15:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r+PT0KdFEptDE0LsTY7S3ezy3aPMf4LjLbgfyubQzEI="
+        }
+      ]
+    },
+    {
+      "Route": "BMWwebsite.styles.css",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BMWwebsite.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r+PT0KdFEptDE0LsTY7S3ezy3aPMf4LjLbgfyubQzEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 11:15:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r+PT0KdFEptDE0LsTY7S3ezy3aPMf4LjLbgfyubQzEI="
+        }
+      ]
+    },
+    {
+      "Route": "BMWwebsite.vor2j23aac.bundle.scp.css",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BMWwebsite.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r+PT0KdFEptDE0LsTY7S3ezy3aPMf4LjLbgfyubQzEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 11:15:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vor2j23aac"
+        },
+        {
+          "Name": "label",
+          "Value": "BMWwebsite.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r+PT0KdFEptDE0LsTY7S3ezy3aPMf4LjLbgfyubQzEI="
+        }
+      ]
+    },
+    {
+      "Route": "BMWwebsite.vor2j23aac.styles.css",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BMWwebsite.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r+PT0KdFEptDE0LsTY7S3ezy3aPMf4LjLbgfyubQzEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 11:15:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vor2j23aac"
+        },
+        {
+          "Name": "label",
+          "Value": "BMWwebsite.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r+PT0KdFEptDE0LsTY7S3ezy3aPMf4LjLbgfyubQzEI="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:11:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:11:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:11:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:11:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:11:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:11:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/bmw-3-series.a06auraj8a.jpg",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-3-series.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6sZ8hUSogp12CGB8oCHLHtxZ4ll17BG/a7YlNFR5LjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a06auraj8a"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bmw-3-series.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6sZ8hUSogp12CGB8oCHLHtxZ4ll17BG/a7YlNFR5LjI="
+        }
+      ]
+    },
+    {
+      "Route": "images/bmw-3-series.jpg",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-3-series.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6sZ8hUSogp12CGB8oCHLHtxZ4ll17BG/a7YlNFR5LjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6sZ8hUSogp12CGB8oCHLHtxZ4ll17BG/a7YlNFR5LjI="
+        }
+      ]
+    },
+    {
+      "Route": "images/bmw-electric.jpg",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-electric.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ThHxRp17gqplNYYKw5KrsQ9V6dg+sIOAjQkYWKanvW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ThHxRp17gqplNYYKw5KrsQ9V6dg+sIOAjQkYWKanvW4="
+        }
+      ]
+    },
+    {
+      "Route": "images/bmw-electric.m23nyc9cvu.jpg",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-electric.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ThHxRp17gqplNYYKw5KrsQ9V6dg+sIOAjQkYWKanvW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m23nyc9cvu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bmw-electric.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ThHxRp17gqplNYYKw5KrsQ9V6dg+sIOAjQkYWKanvW4="
+        }
+      ]
+    },
+    {
+      "Route": "images/bmw-experience.jpg",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-experience.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b7SYnbxnVK+S1J0w9d01n7an4C8+EdERx1G5r2SZsl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b7SYnbxnVK+S1J0w9d01n7an4C8+EdERx1G5r2SZsl8="
+        }
+      ]
+    },
+    {
+      "Route": "images/bmw-experience.pah8u1otbd.jpg",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-experience.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b7SYnbxnVK+S1J0w9d01n7an4C8+EdERx1G5r2SZsl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pah8u1otbd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bmw-experience.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b7SYnbxnVK+S1J0w9d01n7an4C8+EdERx1G5r2SZsl8="
+        }
+      ]
+    },
+    {
+      "Route": "images/bmw-hero.jpg",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-hero.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49768"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P837fJLerI2lI8qyqk/CT81MlIfcYQehagOH4nwdV6U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P837fJLerI2lI8qyqk/CT81MlIfcYQehagOH4nwdV6U="
+        }
+      ]
+    },
+    {
+      "Route": "images/bmw-hero.lrqxx3khv8.jpg",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-hero.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49768"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P837fJLerI2lI8qyqk/CT81MlIfcYQehagOH4nwdV6U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lrqxx3khv8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bmw-hero.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P837fJLerI2lI8qyqk/CT81MlIfcYQehagOH4nwdV6U="
+        }
+      ]
+    },
+    {
+      "Route": "images/bmw-logo.png",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "372800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eAVS8Na5/fxIwzHnlUmWSTd2WfBG+N/OVIQEK4NrXFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 11:06:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eAVS8Na5/fxIwzHnlUmWSTd2WfBG+N/OVIQEK4NrXFo="
+        }
+      ]
+    },
+    {
+      "Route": "images/bmw-logo.srp0f1fe95.png",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "372800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eAVS8Na5/fxIwzHnlUmWSTd2WfBG+N/OVIQEK4NrXFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 11:06:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "srp0f1fe95"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bmw-logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eAVS8Na5/fxIwzHnlUmWSTd2WfBG+N/OVIQEK4NrXFo="
+        }
+      ]
+    },
+    {
+      "Route": "images/bmw-x5.33tgnqgxnt.jpg",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-x5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"walPv2zjlkea857i4ht8FwS5Jfu9XQ65K9824WTNfx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "33tgnqgxnt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bmw-x5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-walPv2zjlkea857i4ht8FwS5Jfu9XQ65K9824WTNfx0="
+        }
+      ]
+    },
+    {
+      "Route": "images/bmw-x5.jpg",
+      "AssetFile": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\images\\bmw-x5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"walPv2zjlkea857i4ht8FwS5Jfu9XQ65K9824WTNfx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Oct 2026 05:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-walPv2zjlkea857i4ht8FwS5Jfu9XQ65K9824WTNfx0="
+        }
+      ]
+    }
+  ]
+}

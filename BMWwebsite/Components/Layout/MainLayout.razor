@@ -1,0 +1,104 @@
+﻿@inherits LayoutComponentBase
+
+<div class="site-wrapper">
+
+    <header class="main-header">
+        <nav class="navbar navbar-expand-lg navbar-light bg-white main-navbar">
+            <div class="container-fluid px-lg-5">
+
+                <a class="navbar-brand bmw-brand" href="/">
+                    <img src="/images/bmw-logo.png"alt="BMW Logo" class="bmw-logo" />
+
+                    <span class="brand-divider"></span>
+                    <span class="brand-name">SHEER DRIVING PLEASURE</span>
+                </a>
+
+                <button class="navbar-toggler"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#bmwNavbar"
+                        aria-controls="bmwNavbar"
+                        aria-expanded="false"
+                        aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="bmwNavbar">
+                    <ul class="navbar-nav ms-auto align-items-lg-center">
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#models">Models</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#electric">Electric</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#experience">Experience</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#about">About BMW</a>
+                        </li>
+
+                        <li class="nav-item ms-lg-3">
+                            <a class="btn btn-dark nav-discover-btn"
+                               href="#models">
+                                Discover BMW
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        @Body
+    </main>
+
+    <footer class="main-footer" id="about">
+        <div class="container-fluid px-lg-5">
+
+            <div class="row gy-4">
+
+                <div class="col-12 col-md-6 col-lg-4">
+                    <h5 class="footer-brand">BMW</h5>
+                    <p>
+                        Explore innovation, performance and the joy
+                        of driving through our BMW-inspired interface.
+                    </p>
+                </div>
+
+                <div class="col-6 col-md-3 col-lg-4">
+                    <h6>Explore</h6>
+                    <a href="#models">BMW Models</a>
+                    <a href="#electric">Electric Mobility</a>
+                    <a href="#experience">Driving Experience</a>
+                </div>
+
+                <div class="col-6 col-md-3 col-lg-4">
+                    <h6>Learn More</h6>
+                    <a href="https://www.bmw.com/" target="_blank"
+                       rel="noopener noreferrer">Official BMW Website</a>
+                    <p class="footer-note">
+                        Student project for educational purposes.
+                    </p>
+                </div>
+
+            </div>
+
+            <hr />
+
+            <div class="footer-bottom">
+                <span>© 2026 BMW Interface Clone — Study Project</span>
+                <a href="#top">Back to top ↑</a>
+            </div>
+
+        </div>
+    </footer>
+
+</div>

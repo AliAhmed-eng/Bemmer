@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21281A63-DD43-4B46-90A8-BA9F00BA4A2F}|BMWwebsite\\BMWwebsite.csproj|c:\\users\\hp\\documents\\vp lab\\bmwwebsite\\bmwwebsite\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21281A63-DD43-4B46-90A8-BA9F00BA4A2F}|BMWwebsite\\BMWwebsite.csproj|solutionrelative:bmwwebsite\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21281A63-DD43-4B46-90A8-BA9F00BA4A2F}|BMWwebsite\\BMWwebsite.csproj|c:\\users\\hp\\documents\\vp lab\\bmwwebsite\\bmwwebsite\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21281A63-DD43-4B46-90A8-BA9F00BA4A2F}|BMWwebsite\\BMWwebsite.csproj|solutionrelative:bmwwebsite\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21281A63-DD43-4B46-90A8-BA9F00BA4A2F}|BMWwebsite\\BMWwebsite.csproj|c:\\users\\hp\\documents\\vp lab\\bmwwebsite\\bmwwebsite\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{21281A63-DD43-4B46-90A8-BA9F00BA4A2F}|BMWwebsite\\BMWwebsite.csproj|solutionrelative:bmwwebsite\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21281A63-DD43-4B46-90A8-BA9F00BA4A2F}|BMWwebsite\\BMWwebsite.csproj|c:\\users\\hp\\documents\\vp lab\\bmwwebsite\\bmwwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21281A63-DD43-4B46-90A8-BA9F00BA4A2F}|BMWwebsite\\BMWwebsite.csproj|solutionrelative:bmwwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21281A63-DD43-4B46-90A8-BA9F00BA4A2F}|BMWwebsite\\BMWwebsite.csproj|c:\\users\\hp\\documents\\vp lab\\bmwwebsite\\bmwwebsite\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{21281A63-DD43-4B46-90A8-BA9F00BA4A2F}|BMWwebsite\\BMWwebsite.csproj|solutionrelative:bmwwebsite\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21281A63-DD43-4B46-90A8-BA9F00BA4A2F}|BMWwebsite\\BMWwebsite.csproj|c:\\users\\hp\\documents\\vp lab\\bmwwebsite\\bmwwebsite\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{21281A63-DD43-4B46-90A8-BA9F00BA4A2F}|BMWwebsite\\BMWwebsite.csproj|solutionrelative:bmwwebsite\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21281A63-DD43-4B46-90A8-BA9F00BA4A2F}|BMWwebsite\\BMWwebsite.csproj|c:\\users\\hp\\documents\\vp lab\\bmwwebsite\\bmwwebsite\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21281A63-DD43-4B46-90A8-BA9F00BA4A2F}|BMWwebsite\\BMWwebsite.csproj|solutionrelative:bmwwebsite\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1307214040:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BMWwebsite\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\Components\\App.razor",
+              "RelativeToolTip": "BMWwebsite\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T05:59:20.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "BMWwebsite\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "BMWwebsite\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-11T05:21:07.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BMWwebsite\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BMWwebsite\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T05:20:32.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\Components\\Pages\\Home.razor.css",
+              "RelativeDocumentMoniker": "BMWwebsite\\Components\\Pages\\Home.razor.css",
+              "ToolTip": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\Components\\Pages\\Home.razor.css",
+              "RelativeToolTip": "BMWwebsite\\Components\\Pages\\Home.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-11T05:19:54.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\Program.cs",
+              "RelativeDocumentMoniker": "BMWwebsite\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\Program.cs",
+              "RelativeToolTip": "BMWwebsite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T05:13:00.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "BMWwebsite\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\wwwroot\\app.css",
+              "RelativeToolTip": "BMWwebsite\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-11T05:12:41.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BMWwebsite\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\HP\\Documents\\VP LAB\\BMWwebsite\\BMWwebsite\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BMWwebsite\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T05:12:04.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
